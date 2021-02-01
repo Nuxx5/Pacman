@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color:white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+.game-over-modal {
+  text-align: center;
+  font-family: sans-serif ;
+  left: 100px;
+  top: 100px;
+  width: 200px;
+  height: 200px;
+  border: solid;
+  border-radius: 20%;
+  color: red;  
+  background-color: white;
+  display: none;
+} 
+
+.button {
+  width: 70px;
+  height: 70px;
+  color: blue;
+  background-color: yellow;
+  margin-bottom: 30px;
+}
